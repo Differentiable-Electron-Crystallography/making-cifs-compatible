@@ -1,8 +1,8 @@
 data_pets
 _audit_creation_method      'PETS2 version 2.2.20241028.2022'
-_cell_length_a        5.63083(80)
+_cell_length_a        5.63083
 _cell_length_b        5.63083
-_cell_length_c        4.71453(100)
+_cell_length_c        4.71453
 _cell_angle_alpha   89.99989
 _cell_angle_beta    90.00017
 _cell_angle_gamma   89.99992
@@ -20,13 +20,13 @@ _diffrn_orient_matrix_UB_33 -0.13873
 _diffrn_pets_omega  0.00000
 
 # Start of the section for CIF
-_diffrn_reflns_reduction_process
+_diffrn_measurement_details
 ;
 data collection geometry: continuous rotation
 dstarmax:  1.900
 RC width:  0.00490
 mosaicity:  0.070
-tilt axis position:  272.325
+rotation axis position:  272.325
 reflection size:    5.000
 Virtual frame settings: number of merged frames: 14
                         step between frames:      9
